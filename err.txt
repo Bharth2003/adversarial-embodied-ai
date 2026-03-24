@@ -1,0 +1,1 @@
+Your setup doesn't support bf16/gpu. You need to assign use_cpu if you want to train the model on CPU.
