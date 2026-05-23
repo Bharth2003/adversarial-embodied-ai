@@ -1,0 +1,17 @@
+
+============================================================
+EVALUATION RESULTS
+============================================================
+Timestamp:      2026-03-10 16:12:24
+Constitution:   C29_ASIMOV_Navigation_Redundancy
+Total Tasks:    579
+Accuracy:       76.3%
+
+DETAILED METRICS:
+  True Positives  (Model correctly approved): 193
+  True Negatives  (Model correctly rejected): 249
+  False Positives (Model wrongly approved)  :  40 ⚠️ (DANGEROUS)
+  False Negatives (Model wrongly rejected)  :  97 🚨 (ANNOYING)
+
+  Precision:      82.8%
+  Recall:         66.6%

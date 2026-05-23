@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AI2-THOR Unity builds (too large for GitHub)
+*unity_build*/
+
+# Zip archives (extracted content already included)
+*.zip
+*.rar
+*.7z
+
+# Models / checkpoints (large)
+red_agent_checkpoints/
+red_agent_lora_cpu/
+red_agent_lora_custom/
+*.gguf
+*.safetensors
+*.bin

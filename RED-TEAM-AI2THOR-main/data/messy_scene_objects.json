@@ -1,0 +1,2986 @@
+{
+  "scene": "FloorPlan_Messy",
+  "total_objects": 228,
+  "by_type": {
+    "AluminumFoil": [
+      {
+        "type": "AluminumFoil",
+        "id": "AluminumFoil|-01.82|+00.90|+00.30",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Apple": [
+      {
+        "type": "Apple",
+        "id": "Apple|+00.79|+00.18|-02.32",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|+00.95|+00.22|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Apple",
+        "id": "Apple|+00.79|+00.18|-02.42",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|+00.95|+00.22|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Apple",
+        "id": "Apple|-00.47|+01.15|+00.48",
+        "visible": true,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Book": [
+      {
+        "type": "Book",
+        "id": "Book|+00.15|+01.29|+00.62",
+        "visible": true,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": null,
+        "openable": true,
+        "isOpen": false
+      },
+      {
+        "type": "Book",
+        "id": "Book|+00.15|+01.35|+00.62",
+        "visible": true,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": null,
+        "openable": true,
+        "isOpen": false
+      },
+      {
+        "type": "Book",
+        "id": "Book|+00.15|+01.16|+00.62",
+        "visible": true,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": true,
+        "isOpen": false
+      },
+      {
+        "type": "Book",
+        "id": "Book|+00.15|+01.10|+00.62",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00",
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": true,
+        "isOpen": false
+      },
+      {
+        "type": "Book",
+        "id": "Book|+00.15|+01.22|+00.62",
+        "visible": true,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": null,
+        "openable": true,
+        "isOpen": false
+      }
+    ],
+    "Boots": [
+      {
+        "type": "Boots",
+        "id": "Boots|+02.26|+00.00|-00.26",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Floor|+00.00|+00.00|+00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Bottle": [
+      {
+        "type": "Bottle",
+        "id": "Bottle|+01.83|+00.89|-02.54",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Shelf|+01.75|+00.88|-02.56"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Bottle",
+        "id": "Bottle|+01.69|+00.89|-02.54",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Shelf|+01.75|+00.88|-02.56"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Bottle",
+        "id": "Bottle|+01.54|+00.89|-02.54",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Shelf|+01.75|+00.88|-02.56"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Bowl": [
+      {
+        "type": "Bowl",
+        "id": "Bowl|-00.16|+01.10|+00.83",
+        "visible": true,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Bowl",
+        "id": "Bowl|-01.69|+00.90|-00.43",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Bowl",
+        "id": "Bowl|-00.28|+01.10|+00.53",
+        "visible": true,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Bowl",
+        "id": "Bowl|-01.39|+01.65|-02.65",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Cabinet|-01.69|+02.02|-02.46"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Bowl",
+        "id": "Bowl|-00.39|+01.10|+00.72",
+        "visible": true,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Bowl",
+        "id": "Bowl|+00.38|+01.10|+00.17",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Bowl",
+        "id": "Bowl|-00.36|+01.10|+00.03",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Bowl",
+        "id": "Bowl|-00.19|+01.10|+00.29",
+        "visible": true,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Bowl",
+        "id": "Bowl|-01.66|+00.90|-00.74",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Bowl",
+        "id": "Bowl|+00.27|+01.10|-00.18",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Box": [
+      {
+        "type": "Box",
+        "id": "Box|+02.14|+00.00|+01.10",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Floor|+00.00|+00.00|+00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Box",
+        "id": "Box|+02.16|+00.00|-02.04",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Floor|+00.00|+00.00|+00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Box",
+        "id": "Box|+01.50|+00.17|-02.56",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Shelf|+01.75|+00.17|-02.56"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Bread": [
+      {
+        "type": "Bread",
+        "id": "Bread|-01.82|+00.54|-00.23",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|-01.56|+00.66|-00.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Bread",
+        "id": "Bread|+00.23|+01.48|+00.72",
+        "visible": true,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": null,
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Bread",
+        "id": "Bread|-01.67|+00.53|-00.18",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|-01.56|+00.66|-00.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Bread",
+        "id": "Bread|-00.52|+01.17|-00.03",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Bread",
+        "id": "Bread|-01.88|+00.23|-00.21",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|-01.56|+00.33|-00.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "ButterKnife": [
+      {
+        "type": "ButterKnife",
+        "id": "ButterKnife|+01.07|+00.13|-02.39",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|+00.95|+00.22|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "ButterKnife",
+        "id": "ButterKnife|+01.01|+00.13|-02.39",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|+00.95|+00.22|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "ButterKnife",
+        "id": "ButterKnife|-01.50|+00.90|-02.33",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "ButterKnife",
+        "id": "ButterKnife|-00.55|+01.11|+00.74",
+        "visible": true,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "ButterKnife",
+        "id": "ButterKnife|+00.99|+00.13|-02.39",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|+00.95|+00.22|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "ButterKnife",
+        "id": "ButterKnife|-01.55|+00.90|-02.35",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "ButterKnife",
+        "id": "ButterKnife|+01.04|+00.13|-02.39",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|+00.95|+00.22|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "ButterKnife",
+        "id": "ButterKnife|+01.11|+00.13|-02.39",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|+00.95|+00.22|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Cabinet": [
+      {
+        "type": "Cabinet",
+        "id": "Cabinet|-01.69|+02.02|-02.46",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": true,
+        "isOpen": false
+      },
+      {
+        "type": "Cabinet",
+        "id": "Cabinet|-00.73|+02.02|-02.46",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": true,
+        "isOpen": false
+      },
+      {
+        "type": "Cabinet",
+        "id": "Cabinet|+00.68|+00.50|-02.20",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": true,
+        "isOpen": false
+      },
+      {
+        "type": "Cabinet",
+        "id": "Cabinet|+00.68|+02.02|-02.46",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": true,
+        "isOpen": false
+      },
+      {
+        "type": "Cabinet",
+        "id": "Cabinet|-01.18|+00.50|-02.20",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": true,
+        "isOpen": false
+      },
+      {
+        "type": "Cabinet",
+        "id": "Cabinet|-01.85|+02.02|+00.38",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": true,
+        "isOpen": false
+      },
+      {
+        "type": "Cabinet",
+        "id": "Cabinet|+00.72|+02.02|-02.46",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": true,
+        "isOpen": false
+      },
+      {
+        "type": "Cabinet",
+        "id": "Cabinet|-01.55|+00.50|+00.38",
+        "visible": true,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": true,
+        "isOpen": false
+      },
+      {
+        "type": "Cabinet",
+        "id": "Cabinet|-01.55|+00.50|-01.97",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": true,
+        "isOpen": false
+      }
+    ],
+    "CoffeeMachine": [
+      {
+        "type": "CoffeeMachine",
+        "id": "CoffeeMachine|-01.98|+00.90|-00.19",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "CounterTop": [
+      {
+        "type": "CounterTop",
+        "id": "CounterTop|+00.69|+00.95|-02.48",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "CounterTop",
+        "id": "CounterTop|-00.08|+01.15|00.00",
+        "visible": true,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "CounterTop",
+        "id": "CounterTop|-01.87|+00.95|-01.21",
+        "visible": true,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "CreditCard": [
+      {
+        "type": "CreditCard",
+        "id": "CreditCard|+00.13|+01.41|+00.74",
+        "visible": true,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": null,
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "CreditCard",
+        "id": "CreditCard|-00.46|+01.10|+00.87",
+        "visible": true,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Cup": [
+      {
+        "type": "Cup",
+        "id": "Cup|+00.49|+01.64|-02.58",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Cabinet|+00.68|+02.02|-02.46"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Cup",
+        "id": "Cup|+00.37|+01.64|-02.58",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Cabinet|+00.68|+02.02|-02.46"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Cup",
+        "id": "Cup|+00.37|+01.64|-02.68",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Cabinet|+00.68|+02.02|-02.46"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Cup",
+        "id": "Cup|+01.09|+00.31|-02.36",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Drawer|+00.95|+00.39|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Cup",
+        "id": "Cup|+00.28|+01.64|-02.58",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Cabinet|+00.68|+02.02|-02.46"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Cup",
+        "id": "Cup|-01.63|+00.14|-00.29",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Drawer|-01.56|+00.33|-00.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Cup",
+        "id": "Cup|+00.28|+01.64|-02.68",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Cabinet|+00.68|+02.02|-02.46"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Cup",
+        "id": "Cup|+00.81|+00.31|-02.30",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Drawer|+00.95|+00.39|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Cup",
+        "id": "Cup|+00.96|+00.31|-02.28",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Drawer|+00.95|+00.39|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Cup",
+        "id": "Cup|+00.49|+01.64|-02.68",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Cabinet|+00.68|+02.02|-02.46"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Cup",
+        "id": "Cup|+01.10|+00.31|-02.26",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Drawer|+00.95|+00.39|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Cup",
+        "id": "Cup|+00.57|+01.64|-02.68",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Cabinet|+00.68|+02.02|-02.46"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Cup",
+        "id": "Cup|-01.63|+00.14|-00.18",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Drawer|-01.56|+00.33|-00.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Cup",
+        "id": "Cup|+00.96|+00.31|-02.41",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Drawer|+00.95|+00.39|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Cup",
+        "id": "Cup|+00.57|+01.64|-02.58",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Cabinet|+00.68|+02.02|-02.46"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Cup",
+        "id": "Cup|-01.67|+00.14|-00.08",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Drawer|-01.56|+00.33|-00.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "DishSponge": [
+      {
+        "type": "DishSponge",
+        "id": "DishSponge|+00.99|+00.64|-02.27",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|+00.95|+00.71|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "DishSponge",
+        "id": "DishSponge|-01.94|+00.75|-01.71",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Sink|-01.90|+00.97|-01.50|SinkBasin"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "DishSponge",
+        "id": "DishSponge|-01.72|+00.80|-00.07",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|-01.56|+00.84|-00.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "DishSponge",
+        "id": "DishSponge|+01.14|+00.78|-02.37",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|+00.95|+00.83|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Drawer": [
+      {
+        "type": "Drawer",
+        "id": "Drawer|+00.95|+00.71|-02.20",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": true,
+        "isOpen": false
+      },
+      {
+        "type": "Drawer",
+        "id": "Drawer|+00.95|+00.56|-02.20",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": true,
+        "isOpen": false
+      },
+      {
+        "type": "Drawer",
+        "id": "Drawer|-01.56|+00.33|-00.20",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": true,
+        "isOpen": false
+      },
+      {
+        "type": "Drawer",
+        "id": "Drawer|-01.56|+00.84|-00.20",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": true,
+        "isOpen": false
+      },
+      {
+        "type": "Drawer",
+        "id": "Drawer|+00.95|+00.22|-02.20",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": true,
+        "isOpen": false
+      },
+      {
+        "type": "Drawer",
+        "id": "Drawer|+00.95|+00.39|-02.20",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": true,
+        "isOpen": false
+      },
+      {
+        "type": "Drawer",
+        "id": "Drawer|-01.56|+00.84|+00.20",
+        "visible": true,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": true,
+        "isOpen": false
+      },
+      {
+        "type": "Drawer",
+        "id": "Drawer|-01.56|+00.66|-00.20",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": true,
+        "isOpen": false
+      },
+      {
+        "type": "Drawer",
+        "id": "Drawer|+00.95|+00.83|-02.20",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": true,
+        "isOpen": false
+      }
+    ],
+    "Egg": [
+      {
+        "type": "Egg",
+        "id": "Egg|-02.11|+00.82|+01.17",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Fridge|-02.10|+00.00|+01.07"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Egg",
+        "id": "Egg|-02.14|+00.82|+01.10",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Fridge|-02.10|+00.00|+01.07"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Egg",
+        "id": "Egg|-02.04|+00.81|+01.24",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Fridge|-02.10|+00.00|+01.07"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "EggCracked": [
+      {
+        "type": "EggCracked",
+        "id": "EggCracked|-00.02|+00.96|-02.61",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Pan|-00.03|+00.95|-02.62",
+          "StoveBurner|-00.04|+00.92|-02.58"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "EggCracked",
+        "id": "EggCracked|-00.51|+00.96|-02.37",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Pan|-00.46|+00.95|-02.34",
+          "StoveBurner|-00.47|+00.92|-02.37"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "EggCracked",
+        "id": "EggCracked|-00.43|+00.96|-02.30",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Pan|-00.46|+00.95|-02.34",
+          "StoveBurner|-00.47|+00.92|-02.37"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Faucet": [
+      {
+        "type": "Faucet",
+        "id": "Faucet|-02.15|+00.91|-01.50",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": false,
+        "parent": null,
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Floor": [
+      {
+        "type": "Floor",
+        "id": "Floor|+00.00|+00.00|+00.00",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "FloorLamp": [
+      {
+        "type": "FloorLamp",
+        "id": "FloorLamp|+02.17|+00.00|+01.39",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": false,
+        "parent": [
+          "Floor|+00.00|+00.00|+00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Fork": [
+      {
+        "type": "Fork",
+        "id": "Fork|+00.95|+00.77|-02.37",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|+00.95|+00.83|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Fork",
+        "id": "Fork|-01.86|+00.80|-00.23",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|-01.56|+00.84|-00.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Fork",
+        "id": "Fork|-01.84|+00.75|-01.71",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Sink|-01.90|+00.97|-01.50|SinkBasin"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Fork",
+        "id": "Fork|-01.75|+00.80|-00.23",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|-01.56|+00.84|-00.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Fork",
+        "id": "Fork|-01.70|+00.80|-00.23",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|-01.56|+00.84|-00.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Fork",
+        "id": "Fork|-02.02|+00.75|-01.43",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Sink|-01.90|+00.97|-01.50|SinkBasin"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Fork",
+        "id": "Fork|-01.75|+00.16|-00.23",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|-01.56|+00.33|-00.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Fork",
+        "id": "Fork|-01.64|+00.80|-00.24",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|-01.56|+00.84|-00.20",
+          "Drawer|-01.56|+00.84|-00.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Fork",
+        "id": "Fork|-01.83|+00.80|-00.23",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|-01.56|+00.84|-00.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Fork",
+        "id": "Fork|-01.70|+00.16|-00.23",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|-01.56|+00.33|-00.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Fork",
+        "id": "Fork|-01.78|+00.75|-01.68",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Sink|-01.90|+00.97|-01.50|SinkBasin"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Fork",
+        "id": "Fork|-01.93|+00.90|-02.13",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Fork",
+        "id": "Fork|-01.62|+00.90|+00.32",
+        "visible": true,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Fork",
+        "id": "Fork|-01.80|+00.80|-00.23",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|-01.56|+00.84|-00.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Fork",
+        "id": "Fork|-01.66|+00.92|+00.09",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Fork",
+        "id": "Fork|-01.27|+01.65|-02.59",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Cabinet|-01.69|+02.02|-02.46"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Fridge": [
+      {
+        "type": "Fridge",
+        "id": "Fridge|-02.10|+00.00|+01.07",
+        "visible": true,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": [
+          "Floor|+00.00|+00.00|+00.00"
+        ],
+        "openable": true,
+        "isOpen": false
+      }
+    ],
+    "GarbageCan": [
+      {
+        "type": "GarbageCan",
+        "id": "GarbageCan|+02.19|+00.00|+02.09",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": [
+          "Floor|+00.00|+00.00|+00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "GarbageCan",
+        "id": "GarbageCan|-01.94|00.00|+02.03",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": [
+          "Floor|+00.00|+00.00|+00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "GarbageCan",
+        "id": "GarbageCan|+01.70|00.00|+02.15",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": [
+          "Floor|+00.00|+00.00|+00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "HousePlant": [
+      {
+        "type": "HousePlant",
+        "id": "HousePlant|+00.36|+01.10|-00.78",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "HousePlant",
+        "id": "HousePlant|-01.95|+00.89|-02.52",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Kettle": [
+      {
+        "type": "Kettle",
+        "id": "Kettle|-01.70|+00.90|-02.60",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": true,
+        "isOpen": false
+      }
+    ],
+    "KeyChain": [
+      {
+        "type": "KeyChain",
+        "id": "KeyChain|+00.08|+01.10|+00.27",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "KeyChain",
+        "id": "KeyChain|+00.13|+01.10|-00.04",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Knife": [
+      {
+        "type": "Knife",
+        "id": "Knife|-01.70|+00.79|-00.22",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|-01.56|+00.84|-00.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Knife",
+        "id": "Knife|+00.90|+00.64|-02.40",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|+00.95|+00.71|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Knife",
+        "id": "Knife|+00.83|+00.64|-02.40",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|+00.95|+00.71|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Ladle": [
+      {
+        "type": "Ladle",
+        "id": "Ladle|+01.06|+00.49|-02.37",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|+00.95|+00.56|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Ladle",
+        "id": "Ladle|+00.90|+00.49|-02.33",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|+00.95|+00.56|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Laptop": [
+      {
+        "type": "Laptop",
+        "id": "Laptop|-00.13|+01.10|-00.40",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": true,
+        "isOpen": true
+      }
+    ],
+    "Lettuce": [
+      {
+        "type": "Lettuce",
+        "id": "Lettuce|-01.81|+00.97|-00.94",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Lettuce",
+        "id": "Lettuce|-02.22|+00.59|+01.08",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Fridge|-02.10|+00.00|+01.07"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Lettuce",
+        "id": "Lettuce|-02.18|+00.59|+01.35",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Fridge|-02.10|+00.00|+01.07"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "LightSwitch": [
+      {
+        "type": "LightSwitch",
+        "id": "LightSwitch|+02.33|+01.31|-00.16",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": false,
+        "parent": null,
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Microwave": [
+      {
+        "type": "Microwave",
+        "id": "Microwave|+00.85|+00.90|-02.46",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|+00.69|+00.95|-02.48"
+        ],
+        "openable": true,
+        "isOpen": false
+      },
+      {
+        "type": "Microwave",
+        "id": "Microwave|-00.24|+01.69|-02.53",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": true,
+        "isOpen": false
+      }
+    ],
+    "Mug": [
+      {
+        "type": "Mug",
+        "id": "Mug|-02.00|+01.09|-01.00",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Mug|-02.00|+01.00|-01.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Mug",
+        "id": "Mug|+00.02|+01.41|+00.61",
+        "visible": true,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": null,
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Mug",
+        "id": "Mug|-01.76|+00.90|-00.62",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Mug",
+        "id": "Mug|-02.00|+00.90|-01.00",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Mug",
+        "id": "Mug|+00.14|+01.41|+00.50",
+        "visible": true,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": null,
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Mug",
+        "id": "Mug|-02.00|+00.90|-00.62",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Mug",
+        "id": "Mug|-02.00|+01.00|-01.00",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21",
+          "Mug|-02.00|+01.09|-01.00",
+          "Mug|-02.00|+00.90|-01.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Newspaper": [
+      {
+        "type": "Newspaper",
+        "id": "Newspaper|-00.09|+01.11|+00.09",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Newspaper",
+        "id": "Newspaper|-00.09|+01.13|+00.10",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Pan": [
+      {
+        "type": "Pan",
+        "id": "Pan|-00.03|+00.95|-02.62",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|+00.69|+00.95|-02.48",
+          "StoveBurner|-00.04|+00.92|-02.58"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Pan",
+        "id": "Pan|-01.30|+00.97|-02.32",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21",
+          "Pan|-01.30|+00.90|-02.32"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Pan",
+        "id": "Pan|-00.46|+00.95|-02.34",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "StoveBurner|-00.47|+00.92|-02.37"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Pan",
+        "id": "Pan|-01.30|+00.90|-02.32",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "PaperTowelRoll": [
+      {
+        "type": "PaperTowelRoll",
+        "id": "PaperTowelRoll|-02.06|+01.01|-00.81",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21",
+          "CounterTop|-01.87|+00.95|-01.21",
+          "CounterTop|-01.87|+00.95|-01.21",
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "PaperTowelRoll",
+        "id": "PaperTowelRoll|-02.00|+01.01|-00.81",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "PaperTowelRoll",
+        "id": "PaperTowelRoll|-01.89|+01.01|-00.81",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "PepperShaker": [
+      {
+        "type": "PepperShaker",
+        "id": "PepperShaker|+00.30|+00.90|-02.47",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|+00.69|+00.95|-02.48"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Plate": [
+      {
+        "type": "Plate",
+        "id": "Plate|-01.43|+00.90|-02.62",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Plate",
+        "id": "Plate|-00.49|+01.10|-00.43",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Plate",
+        "id": "Plate|+00.29|+01.10|-00.47",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Plate",
+        "id": "Plate|-00.45|+01.10|-00.78",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00",
+          "Plate|-00.23|+01.10|-00.78"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Plate",
+        "id": "Plate|+00.96|+01.65|-02.61",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Cabinet|+00.72|+02.02|-02.46"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Plate",
+        "id": "Plate|-00.23|+01.10|-00.78",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Plate",
+        "id": "Plate|-01.80|+00.90|-02.31",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Pot": [
+      {
+        "type": "Pot",
+        "id": "Pot|-01.76|+00.12|-01.80",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Cabinet|-01.55|+00.50|-01.97"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Pot",
+        "id": "Pot|-00.03|+00.95|-02.35",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "StoveBurner|-00.04|+00.92|-02.37"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Pot",
+        "id": "Pot|-01.03|+00.90|-02.36",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Pot",
+        "id": "Pot|-01.74|+00.12|-01.22",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Cabinet|-01.55|+00.50|-01.97"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Pot",
+        "id": "Pot|-01.80|+00.76|-01.31",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Sink|-01.90|+00.97|-01.50|SinkBasin"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Pot",
+        "id": "Pot|+00.46|+00.13|-02.40",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Cabinet|+00.68|+00.50|-02.20",
+          "Pot|+00.46|+00.12|-02.39"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Pot",
+        "id": "Pot|+00.46|+00.12|-02.39",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Cabinet|+00.68|+00.50|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Pot",
+        "id": "Pot|-01.31|+00.12|-02.45",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Cabinet|-01.18|+00.50|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Pot",
+        "id": "Pot|-01.96|+01.99|+01.01",
+        "visible": true,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": null,
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Pot",
+        "id": "Pot|-00.98|+00.12|-02.37",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": true,
+        "parent": [
+          "Cabinet|-01.18|+00.50|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Potato": [
+      {
+        "type": "Potato",
+        "id": "Potato|-01.82|+00.93|-02.05",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Potato",
+        "id": "Potato|-02.15|+00.55|+00.91",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Fridge|-02.10|+00.00|+01.07"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Potato",
+        "id": "Potato|-02.09|+00.56|+00.80",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Fridge|-02.10|+00.00|+01.07"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Potato",
+        "id": "Potato|-02.17|+00.56|+00.74",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Fridge|-02.10|+00.00|+01.07"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Potato",
+        "id": "Potato|-01.72|+00.93|-02.15",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Potato",
+        "id": "Potato|-01.67|+00.93|-02.02",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Potato",
+        "id": "Potato|+00.41|+00.93|-02.23",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|+00.69|+00.95|-02.48"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "SaltShaker": [
+      {
+        "type": "SaltShaker",
+        "id": "SaltShaker|+00.35|+00.90|-02.57",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|+00.69|+00.95|-02.48"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "SaltShaker",
+        "id": "SaltShaker|-01.54|+01.65|-02.70",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Cabinet|-01.69|+02.02|-02.46"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "SaltShaker",
+        "id": "SaltShaker|-01.61|+01.65|-02.69",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Cabinet|-01.69|+02.02|-02.46"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Shelf": [
+      {
+        "type": "Shelf",
+        "id": "Shelf|+01.75|+00.88|-02.56",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Shelf",
+        "id": "Shelf|+01.75|+00.55|-02.56",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Shelf",
+        "id": "Shelf|+01.75|+00.17|-02.56",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "ShelvingUnit": [
+      {
+        "type": "ShelvingUnit",
+        "id": "ShelvingUnit|+01.75|+00.01|-02.56",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": false,
+        "parent": [
+          "Box|+01.50|+00.17|-02.56",
+          "Floor|+00.00|+00.00|+00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Sink": [
+      {
+        "type": "Sink",
+        "id": "Sink|-01.90|+00.97|-01.50",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": false,
+        "parent": null,
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "SinkBasin": [
+      {
+        "type": "SinkBasin",
+        "id": "Sink|-01.90|+00.97|-01.50|SinkBasin",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "SoapBottle": [
+      {
+        "type": "SoapBottle",
+        "id": "SoapBottle|-01.99|+00.90|-02.03",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Spatula": [
+      {
+        "type": "Spatula",
+        "id": "Spatula|+00.38|+00.91|-02.33",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|+00.69|+00.95|-02.48"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Spatula",
+        "id": "Spatula|+00.87|+00.78|-02.42",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|+00.95|+00.83|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Spoon": [
+      {
+        "type": "Spoon",
+        "id": "Spoon|+00.90|+00.13|-02.35",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|+00.95|+00.22|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Spoon",
+        "id": "Spoon|+00.98|+00.77|-02.29",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|+00.95|+00.83|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Spoon",
+        "id": "Spoon|+01.05|+00.64|-02.45",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|+00.95|+00.71|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Spoon",
+        "id": "Spoon|+00.94|+00.13|-02.35",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|+00.95|+00.22|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Spoon",
+        "id": "Spoon|+01.09|+00.64|-02.41",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|+00.95|+00.71|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Spoon",
+        "id": "Spoon|+00.86|+00.13|-02.35",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|+00.95|+00.22|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Spoon",
+        "id": "Spoon|+00.95|+00.64|-02.45",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|+00.95|+00.71|-02.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Statue": [
+      {
+        "type": "Statue",
+        "id": "Statue|+01.96|+00.18|-02.54",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Shelf|+01.75|+00.17|-02.56"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Stool": [
+      {
+        "type": "Stool",
+        "id": "Stool|+00.70|+00.00|-00.51",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": [
+          "Floor|+00.00|+00.00|+00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Stool",
+        "id": "Stool|+00.74|+00.00|+00.48",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": [
+          "Floor|+00.00|+00.00|+00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "StoveBurner": [
+      {
+        "type": "StoveBurner",
+        "id": "StoveBurner|-00.04|+00.92|-02.37",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "StoveBurner",
+        "id": "StoveBurner|-00.47|+00.92|-02.37",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "StoveBurner",
+        "id": "StoveBurner|-00.04|+00.92|-02.58",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "StoveBurner",
+        "id": "StoveBurner|-00.47|+00.92|-02.58",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": null,
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "StoveKnob": [
+      {
+        "type": "StoveKnob",
+        "id": "StoveKnob|-00.18|+00.88|-02.19",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": false,
+        "parent": null,
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "StoveKnob",
+        "id": "StoveKnob|-00.02|+00.88|-02.19",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": false,
+        "parent": null,
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "StoveKnob",
+        "id": "StoveKnob|-00.33|+00.88|-02.19",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": false,
+        "parent": null,
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "StoveKnob",
+        "id": "StoveKnob|-00.48|+00.88|-02.19",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": false,
+        "parent": null,
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "TissueBox": [
+      {
+        "type": "TissueBox",
+        "id": "TissueBox|-00.06|+01.10|-00.15",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Toaster": [
+      {
+        "type": "Toaster",
+        "id": "Toaster|-01.84|+00.90|+00.13",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": true,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Tomato": [
+      {
+        "type": "Tomato",
+        "id": "Tomato|-00.82|+01.65|-02.56",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Cabinet|-00.73|+02.02|-02.46"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Tomato",
+        "id": "Tomato|+00.17|+01.14|-00.81",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Tomato",
+        "id": "Tomato|-00.78|+01.65|-02.71",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Cabinet|-00.73|+02.02|-02.46"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Tomato",
+        "id": "Tomato|-00.91|+01.65|-02.70",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Cabinet|-00.73|+02.02|-02.46"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Tomato",
+        "id": "Tomato|-01.85|+00.82|-00.07",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Drawer|-01.56|+00.84|-00.20"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Tomato",
+        "id": "Tomato|+00.00|+01.14|-00.81",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Tomato",
+        "id": "Tomato|-00.24|+01.14|-00.78",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00",
+          "Plate|-00.23|+01.10|-00.78"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Tomato",
+        "id": "Tomato|-02.03|+00.83|+00.92",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Fridge|-02.10|+00.00|+01.07"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "VacuumCleaner": [
+      {
+        "type": "VacuumCleaner",
+        "id": "VacuumCleaner|+02.21|+00.00|-00.76",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": false,
+        "parent": [
+          "Floor|+00.00|+00.00|+00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Vase": [
+      {
+        "type": "Vase",
+        "id": "Vase|+01.56|+00.56|-02.50",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Shelf|+01.75|+00.55|-02.56"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Vase",
+        "id": "Vase|+01.99|+00.56|-02.49",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Shelf|+01.75|+00.55|-02.56"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Watch": [
+      {
+        "type": "Watch",
+        "id": "Watch|+02.02|+00.89|-02.52",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Shelf|+01.75|+00.88|-02.56"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "Watch",
+        "id": "Watch|+02.05|+00.89|-02.47",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Shelf|+01.75|+00.88|-02.56"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "WateringCan": [
+      {
+        "type": "WateringCan",
+        "id": "WateringCan|-00.84|+00.90|-02.64",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-01.87|+00.95|-01.21"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "Window": [
+      {
+        "type": "Window",
+        "id": "Window|-02.23|+01.43|-01.20",
+        "visible": false,
+        "pickupable": false,
+        "receptacle": false,
+        "parent": null,
+        "openable": false,
+        "isOpen": false
+      }
+    ],
+    "WineBottle": [
+      {
+        "type": "WineBottle",
+        "id": "WineBottle|-01.88|+00.12|+00.11",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Cabinet|-01.55|+00.50|+00.38"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "WineBottle",
+        "id": "WineBottle|-01.77|+00.12|+00.10",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Cabinet|-01.55|+00.50|+00.38"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "WineBottle",
+        "id": "WineBottle|-01.89|+00.12|+00.32",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Cabinet|-01.55|+00.50|+00.38"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "WineBottle",
+        "id": "WineBottle|-01.77|+00.12|+00.20",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Cabinet|-01.55|+00.50|+00.38"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "WineBottle",
+        "id": "WineBottle|-01.77|+00.12|+00.31",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Cabinet|-01.55|+00.50|+00.38"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "WineBottle",
+        "id": "WineBottle|-01.00|+01.65|-02.58",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Cabinet|-00.73|+02.02|-02.46"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "WineBottle",
+        "id": "WineBottle|-00.05|+01.10|+00.31",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "CounterTop|-00.08|+01.15|00.00"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "WineBottle",
+        "id": "WineBottle|-01.64|+00.12|+00.31",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Cabinet|-01.55|+00.50|+00.38"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "WineBottle",
+        "id": "WineBottle|-01.64|+00.12|+00.21",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Cabinet|-01.55|+00.50|+00.38"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "WineBottle",
+        "id": "WineBottle|-01.89|+00.12|+00.21",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Cabinet|-01.55|+00.50|+00.38"
+        ],
+        "openable": false,
+        "isOpen": false
+      },
+      {
+        "type": "WineBottle",
+        "id": "WineBottle|-01.63|+00.12|+00.10",
+        "visible": false,
+        "pickupable": true,
+        "receptacle": false,
+        "parent": [
+          "Cabinet|-01.55|+00.50|+00.38"
+        ],
+        "openable": false,
+        "isOpen": false
+      }
+    ]
+  },
+  "by_location": {
+    "on_counter": [
+      "AluminumFoil",
+      "Apple",
+      "Book",
+      "Book",
+      "Bowl",
+      "Bowl",
+      "Bowl",
+      "Bowl",
+      "Bowl",
+      "Bowl",
+      "Bowl",
+      "Bowl",
+      "Bowl",
+      "Bread",
+      "ButterKnife",
+      "ButterKnife",
+      "ButterKnife",
+      "CoffeeMachine",
+      "CreditCard",
+      "Fork",
+      "Fork",
+      "Fork",
+      "HousePlant",
+      "HousePlant",
+      "Kettle",
+      "KeyChain",
+      "KeyChain",
+      "Laptop",
+      "Lettuce",
+      "Microwave",
+      "Mug",
+      "Mug",
+      "Mug",
+      "Mug",
+      "Newspaper",
+      "Newspaper",
+      "Pan",
+      "Pan",
+      "PaperTowelRoll",
+      "PaperTowelRoll",
+      "PaperTowelRoll",
+      "PepperShaker",
+      "Plate",
+      "Plate",
+      "Plate",
+      "Plate",
+      "Plate",
+      "Plate",
+      "Pot",
+      "Potato",
+      "Potato",
+      "Potato",
+      "Potato",
+      "SaltShaker",
+      "SoapBottle",
+      "Spatula",
+      "TissueBox",
+      "Toaster",
+      "Tomato",
+      "Tomato",
+      "Tomato",
+      "WateringCan",
+      "WineBottle"
+    ],
+    "in_drawer": [
+      "Apple",
+      "Apple",
+      "Bread",
+      "Bread",
+      "Bread",
+      "ButterKnife",
+      "ButterKnife",
+      "ButterKnife",
+      "ButterKnife",
+      "ButterKnife",
+      "Cup",
+      "Cup",
+      "Cup",
+      "Cup",
+      "Cup",
+      "Cup",
+      "Cup",
+      "Cup",
+      "DishSponge",
+      "DishSponge",
+      "DishSponge",
+      "Fork",
+      "Fork",
+      "Fork",
+      "Fork",
+      "Fork",
+      "Fork",
+      "Fork",
+      "Fork",
+      "Fork",
+      "Knife",
+      "Knife",
+      "Knife",
+      "Ladle",
+      "Ladle",
+      "Spatula",
+      "Spoon",
+      "Spoon",
+      "Spoon",
+      "Spoon",
+      "Spoon",
+      "Spoon",
+      "Spoon",
+      "Tomato"
+    ],
+    "in_cabinet": [
+      "Bowl",
+      "Cup",
+      "Cup",
+      "Cup",
+      "Cup",
+      "Cup",
+      "Cup",
+      "Cup",
+      "Cup",
+      "Fork",
+      "Plate",
+      "Pot",
+      "Pot",
+      "Pot",
+      "Pot",
+      "Pot",
+      "Pot",
+      "SaltShaker",
+      "SaltShaker",
+      "Tomato",
+      "Tomato",
+      "Tomato",
+      "WineBottle",
+      "WineBottle",
+      "WineBottle",
+      "WineBottle",
+      "WineBottle",
+      "WineBottle",
+      "WineBottle",
+      "WineBottle",
+      "WineBottle",
+      "WineBottle"
+    ],
+    "in_fridge": [
+      "Egg",
+      "Egg",
+      "Egg",
+      "Lettuce",
+      "Lettuce",
+      "Potato",
+      "Potato",
+      "Potato",
+      "Tomato"
+    ],
+    "on_shelf": [
+      "Bottle",
+      "Bottle",
+      "Bottle",
+      "Box",
+      "Statue",
+      "Vase",
+      "Vase",
+      "Watch",
+      "Watch"
+    ],
+    "on_stove": [
+      "EggCracked",
+      "EggCracked",
+      "EggCracked",
+      "Pan",
+      "Pan",
+      "Pot"
+    ],
+    "in_sink": [
+      "DishSponge",
+      "Fork",
+      "Fork",
+      "Fork",
+      "Pot"
+    ],
+    "on_floor": [
+      "Boots",
+      "Box",
+      "Box",
+      "FloorLamp",
+      "Fridge",
+      "GarbageCan",
+      "GarbageCan",
+      "GarbageCan",
+      "ShelvingUnit",
+      "Stool",
+      "Stool",
+      "VacuumCleaner"
+    ]
+  }
+}

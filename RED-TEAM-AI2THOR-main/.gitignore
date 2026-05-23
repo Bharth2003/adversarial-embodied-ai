@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+*.DS_Store
+
+# Unity builds (too large for GitHub)
+unity_build/
+*.exe
+*.app
+*.x86_64
+
+# AI2-THOR cache
+.ai2thor/
+
+# Diagnostic outputs (regenerated per scene)
+diagnostic_*.json
+
+# Reports and runtime outputs
+report.html
+verdicts.jsonl
+results/strategy_memory.json
+results/verdicts.jsonl
+results/report.html
+
+# Claude Agent / Cowork session data (never commit)
+.claude/
+.claude-code/
+
+# Large model files
+*.bin
+*.onnx
+*.pt"CLAUDE.md"         # prevent accidental re-adds
